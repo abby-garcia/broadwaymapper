@@ -1,0 +1,49 @@
+“shows":[
+    {“showName”:"Hamilton”,
+      “showPic”:”../images/ham.jpg”,
+      “showLocation":”Richard Rodgers Theater ”
+     }, 
+	
+  {“showName”:”Groundhog Day”,
+      “showPic":”../images/gday.jpg”,
+      “showLocation”:”August Wilson Theatre”
+     }, 
+  {“showName”:”Dear Evan Hansen”,
+      “showPic":”../images/evan.jpg",
+      “showLocation”:”Music Box Theater”
+     },
+  {“showName”:”Book of Mormon”,
+      “showPic”:”../images/book.jpg”,
+      “showLocation":”Eugene O'Neill Theatre”
+     }, 
+  {“showName”:"WIcked”,
+      “showPic":”../images/wicked.jpg”,
+      “showLocation":”Gershwin Theater”
+     }, 
+  {“showName”:”Phantom of the Opera”,
+      “showPic":”../images/opera.jpg”,
+      “showLocation”:”Majestic Theater”
+     }, 
+  {“showName”:”The Lion King”,
+      “showPic”:”../images/lion.jpg”,
+      “showLocation”:”Minskoff Theater”
+     }, 
+  {“showName”:”Natasha, Pierre & the Great Comet of 1812”,
+      “showPic":”../images/comet.jpg”,
+      “showLocation”:”Imperial Theater”
+     }, 
+  {“showName”:”A Bronx Tale”,
+      “showPic":”../images/bronx.jpg”,
+      “showLocation”:”Longacre Theater”
+     }, 
+  {“showName”:"Cats”,
+      “showPic":”../images/cats.jpg”,
+      “showLocation”:”Neil Simon Theater”
+     },
+ {“showName”:”War Paint”,
+      “showPic":”../images/war.jpg”,
+      “showLocation”:”Nederlander Theater”
+     }
+
+ ]
+
