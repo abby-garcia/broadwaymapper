@@ -1,4 +1,7 @@
-.title{
-  text-align: center;
-  color:orange;
+.broadwayShows{
+   display: -webkit-flex;
+   display: flex;
+   -webkit-flex-direction: column;
+   flex-direction: column;
 }
+/*http://www.sketchingwithcss.com/samplechapter/cheatsheet.html*/

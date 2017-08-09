@@ -4,6 +4,7 @@ import React, { Component } from 'react';
 import './App.css';
 import Title from '../Title/Title';
 import BroadwayShows from '../BroadwayShows/BroadwayShows';
+import GoogleMaps from '../GoogleMap/GoogleMap';
 
 
 class App extends Component {
@@ -12,6 +13,7 @@ class App extends Component {
       <div>
         <Title />
         <BroadwayShows /> 
+        <GoogleMaps />
       </div>
     );
   }

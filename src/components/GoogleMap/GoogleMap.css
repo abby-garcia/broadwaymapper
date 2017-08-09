@@ -1,0 +1,9 @@
+*{
+  font-family: Simonetta;
+}
+
+.mapperText{
+    > div {
+        flex: 1;
+    }
+}

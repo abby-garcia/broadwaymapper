@@ -1,4 +1,15 @@
-.title{
-  text-align: center;
-  color:orange;
+*{
+  font-family: Simonetta;
+}
+
+.showName{
+  font-size:18px;
+  font-weight: bolder;
+  /*display: flex;
+  align-items: center;
+  justify-content: center;*/
+}
+
+.showLocation{
+  font-size: 15px;
 }

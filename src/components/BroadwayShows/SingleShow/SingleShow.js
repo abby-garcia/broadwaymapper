@@ -14,7 +14,7 @@ class SingleShow extends Component {
 			<div className="showLocation">
 				<p>{this.props.location}</p>
 			</div>
-	  </div>	
+	  </div>
     );
   }
 }
@@ -23,5 +23,4 @@ export default SingleShow;
 
 //so this gives the permission to be used in other places
 
-//make pretty
-//json object
+//How does this know that CAts and Hamilton are getting styled? this.props.name/pic/location object

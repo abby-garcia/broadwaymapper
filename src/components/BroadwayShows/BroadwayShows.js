@@ -9,15 +9,16 @@ class BroadwayShows extends Component {
     return (
       <div className="broadwayShows">
         <SingleShow
-			name="Casts"
-			pic=""
-			location=""
-		/> 
-		<SingleShow
-			name="Hamilton"
-			pic=""
-			location=""
-		/> 
+					name="Cats"
+					pic="images/cats.jpg"
+					location=""
+				/>
+				<SingleShow
+					name="Hamilton"
+					pic="../images/ham.jpg"
+					location=""
+				/>
+
       </div>
     );
   }
@@ -27,4 +28,4 @@ export default BroadwayShows;
 
 //so this gives the permission to be used in other places
 
-// Line 8 - this is how you call things 
+// Line 8 - this is how you call things
