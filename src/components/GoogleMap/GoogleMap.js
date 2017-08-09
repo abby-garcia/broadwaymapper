@@ -19,3 +19,7 @@ export default GoogleMaps;
 
 // remember that the content within the return MUST be wrapped in it's own div
 //then div it up as much as you want :)
+
+
+
+// Google API key AIzaSyBXfW8XcDqvlnbJ1OjNrAS4s9KS0Y0ZJlk
