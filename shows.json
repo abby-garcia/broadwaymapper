@@ -59,10 +59,10 @@
 
 // What will for in loop?
 
-for (var key in shows) {
-  if (json.hasOwnProperty(key)) {
-    alert(json[key].showName);
-    alert(json[key].showPic);
-    alert(json[key].showLocation);
-  }
-}
+// for (var key in shows) {
+//   if (json.hasOwnProperty(key)) {
+//     alert(json[key].showName);
+//     alert(json[key].showPic);
+//     alert(json[key].showLocation);
+//   }
+// }
