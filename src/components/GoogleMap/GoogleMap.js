@@ -5,15 +5,10 @@ class GoogleMaps extends Component {
   render() {
     return (
       <div>
-				<div className='mapperText right'>
+				<div className='mapperText'>
 				   <h3>Broadway Show Mapper</h3>
+
 					 <p>Where is the theater?</p>
-
-
-
-
-
-
 				</div>
       </div>
     );
