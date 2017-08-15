@@ -1,4 +1,15 @@
-.title{
-  text-align: center;
-  color:orange;
+*{
+  font-family: Simonetta;
+}
+.broadwayBoxStyle{
+  padding:10px;
+}
+.showName{
+  font-size:18px;
+  font-weight: bolder;
+
+}
+
+.showLocation{
+  font-size: 15px;
 }

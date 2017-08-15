@@ -1,0 +1,9 @@
+*{
+  font-family: Simonetta;
+}
+
+.mapperText{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

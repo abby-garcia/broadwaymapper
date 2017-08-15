@@ -4,14 +4,21 @@ import React, { Component } from 'react';
 import './App.css';
 import Title from '../Title/Title';
 import BroadwayShows from '../BroadwayShows/BroadwayShows';
+import GoogleMaps from '../GoogleMap/GoogleMap';
 
 
 class App extends Component {
+  // state = {
+  //   activeLat: ''
+  //   activeLng: ''
+  // }
+
   render() {
     return (
       <div>
         <Title />
         <BroadwayShows /> 
+        <GoogleMaps/>
       </div>
     );
   }
