@@ -1,6 +1,8 @@
 import React, { Component } from 'react';
 import './SingleShow.css';
 
+// template for what a single show will look like
+
 class SingleShow extends Component {
   render() {
     return (
@@ -13,6 +15,10 @@ class SingleShow extends Component {
 					</div>
 					<div className="showLocation">
 						<p>{this.props.location}</p>
+					</div>
+					<div className="lngAndLat">
+						<p className="lat">{this.props.lat}</p>
+						<p className="lng">{this.props.lng}</p>
 					</div>
 	  	</div>
     );

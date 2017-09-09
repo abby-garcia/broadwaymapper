@@ -8,17 +8,14 @@ import GoogleMaps from '../GoogleMap/GoogleMap';
 
 
 class App extends Component {
-  // state = {
-  //   activeLat: ''
-  //   activeLng: ''
-  // }
+
 
   render() {
     return (
       <div>
         <Title />
         <BroadwayShows /> 
-        <GoogleMaps/>
+        <GoogleMaps />
       </div>
     );
   }

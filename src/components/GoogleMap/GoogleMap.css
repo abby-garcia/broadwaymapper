@@ -1,9 +1,8 @@
-*{
+.markerText{
   font-family: Simonetta;
-}
-
-.mapperText{
-  display: flex;
-  align-items: center;
-  justify-content: center;
+  color:#6A2516;
+  font-weight: bolder;
+  background-color: white;
+  width: 50px;
+  text-align: center;
 }

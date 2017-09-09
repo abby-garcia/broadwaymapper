@@ -27,41 +27,41 @@ const showsData = [
     {'showName':'The Lion King',
      'showPic':'lion.jpg',
      'showLocation':'Minskoff Theatre',
-     'lat':'40.7630893',
-     'lng': '-73.98465499999998'
+     'lat':'40.757827 ',
+     'lng': '-73.98600199999998'
     },
    {'showName':'Groundhog Day',
     'showPic':'gday.jpg',
     'showLocation':'August Wilson Theatre',
-    'lat':'40.7630893',
-    'lng': '-73.98465499999998'
+    'lat':'40.7633243',
+    'lng': '-73.98419720000004'
    },
-   {'showName':'Dear Evan Hanson',
+   {'showName':'Dear Evan Hansen',
     'showPic':'evan.jpg',
     'showLocation':'Music Box Theater',
-    'lat':'40.7630893',
-    'lng': '-73.98465499999998'
+    'lat':'40.7588403',
+    'lng': '-73.9870942'
    },
    {'showName':'Wicked',
     'showPic':'wicked.jpg',
     'showLocation':'Gershwin Theater',
-    'lat':'40.7630893',
-    'lng': '-73.98465499999998'
+    'lat':'40.7623451',
+    'lng': '-73.98519379999999'
    },
-   {'showName':'Natasha, Pierre & the Great Comet of 1812',
+   {'showName':'The Great Comet',
     'showPic':'comet.jpg',
     'showLocation':'Imperial Theater',
-    'lat':'40.7630893',
-    'lng': '-73.98465499999998'
+    'lat':'40.7589344',
+    'lng': '-73.9873447'
    },
    {'showName':'A Bronx Tale',
     'showPic':'bronx.jpg',
     'showLocation':'Longacre Theater',
-    'lat':'40.7630893',
-    'lng': '-73.98465499999998'
+    'lat':'40.7604709',
+    'lng': '-73.98589119999997'
    }
 ];
-
+export default showsData;
 // War Paint lat:40.755489, lng: -73.9882528
 //Cats lat:40.7630893, lng: -73.98465499999998
 //Book of Mormon  lat:40.7610652, lng: -73.98570010000003
@@ -72,6 +72,3 @@ const showsData = [
 //Wicked lat:40.7623451, lng:-73.98519379999999
 //Comet lat: 40.7589344   , lng:-73.9873447
 //Bronx lat:40.7604709, lng:-73.98589119999997
-
-
-export default showsData;
