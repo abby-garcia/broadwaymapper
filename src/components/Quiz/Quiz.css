@@ -1,0 +1,8 @@
+.quiz_title{
+	display: flex;
+  align-items: center;
+  justify-content: center;
+	/*font-family: 'Cherry Swash', cursive;*/
+	font-size: 30px;
+	color:purple;
+}

@@ -5,7 +5,7 @@ import './App.css';
 import Title from '../Title/Title';
 import BroadwayShows from '../BroadwayShows/BroadwayShows';
 import GoogleMaps from '../GoogleMap/GoogleMap';
-
+import Quiz from '../Quiz/Quiz';
 
 class App extends Component {
 
@@ -16,6 +16,7 @@ class App extends Component {
         <Title />
         <BroadwayShows /> 
         <GoogleMaps />
+        <Quiz />
       </div>
     );
   }
